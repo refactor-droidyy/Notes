@@ -67,5 +67,4 @@
         android:id="@+id/add"
         android:background="@color/colorPrimary"/>
 
-
 </LinearLayout>
